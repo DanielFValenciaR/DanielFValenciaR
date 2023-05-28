@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel Fernando Valencia Rojas</h1>
-<h3 align="center">A passionate Java Programmer from Colombia. Software development student, with knowledge and interests in the Java language, dedicated to training and improving all the necessary skills to become an excellent programmer</h3>
+<h3 align="center">Passionate about software development, with knowledge and interests in Java language and web design Html - Css - JavaScript. Currently, I am in the stage of perfecting my skills to become a highly competent programmer. My goal is to continue learning and growing professionally in the programming field, acquiring the necessary skills to excel in this constantly evolving industry.</h3>
 
 <img align="right" alt="coding" width="400" src="https://gohighbrow.com/wp-content/uploads/2018/01/An-introduction-to-Java-programming_sharing.png">
 
